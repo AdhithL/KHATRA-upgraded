@@ -19,7 +19,7 @@ From the project root:
 npm install
 npm run dev:all
 ```
-
+## Contributed by Adhith L
 Frontend: http://localhost:5173  
 Backend: http://localhost:4000
 
